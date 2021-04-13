@@ -2,10 +2,8 @@
 
 
 #### **Je m'appelle Paul Strentz et je suis développeur web junior !**  🧑🏻‍💻 
-
- 🔭   Je suis actuellement en formation au sein de la Wild Code School jusqu'au 31 juillet 2020 puis en stage chez ThinkFab jusqu'au 30 novembre 2020.
  
- 🌱   Actuellement j'apprends le php 🐘  et le framework Symfony !
+ 🐘   PHP/Symfony
  
  ✨   Je suis toujours à la recherche de nouveaux défis ! 🦾
  
