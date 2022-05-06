@@ -1,7 +1,7 @@
 ### Hello 👋
 
 
-#### **Je m'appelle Paul Strentz et je suis développeur web junior !**  🧑🏻‍💻 
+#### **Je m'appelle Paul Strentz et je suis développeur web !**  🧑🏻‍💻 
  
  🐘   PHP/Symfony
  
