@@ -13,8 +13,6 @@
  
  🌱   Je suis actuellement en train d'apprendre le langage Flutter pour faire du développement cross-plateform 
  
- 🔥   Je travaille actuellement sur un blog/site expérimental visible ici [erreur-444](http://erreur-444.herokuapp.com/).
- 
  📫   Pour me contacter [LinkedIn](https://www.linkedin.com/in/paul-strentz/) ou [Twitter](https://twitter.com/PaulLeVrai)
  
  ⚡    Fun fact : En Janvier 2020 je ne savais pas du tout écrire une ligne en Php.
